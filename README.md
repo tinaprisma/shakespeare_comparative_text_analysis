@@ -32,3 +32,6 @@ http://www.nationalarchives.gov.uk/education/resources/elizabeth-monarchy/open-l
 
 Discussion about Hand D
 https://oxfraud.com/HND-Hand-D-home
+
+Secretary Hand Style
+https://en.wikipedia.org/wiki/Secretary_hand
